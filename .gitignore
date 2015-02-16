@@ -15,3 +15,6 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Ignore spring directory to avoid conflict with Guard
+/spring/*.pid
